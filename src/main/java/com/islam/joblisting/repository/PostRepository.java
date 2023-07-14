@@ -1,4 +1,4 @@
-package com.islam.joblisting;
+package com.islam.joblisting.repository;
 
 import com.islam.joblisting.model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
